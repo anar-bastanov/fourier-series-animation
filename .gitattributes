@@ -1,0 +1,4 @@
+* linguist-vendored
+*.cs -linguist-vendored
+
+*.meta linguist-generated -diff
